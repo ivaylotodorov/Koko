@@ -191,11 +191,11 @@
     "SourceControlRepository": {
       "__type": "Telerik.TestStudio.SourceControl.Git.TS.GitRepositoryInfo",
       "__value": {
-        "RemotePath": "https://github.com/ivaylotodorov/GT.git",
+        "RemotePath": "https://github.com/ivaylotodorov/Koko",
         "ServerInfo": {
           "__type": "Telerik.TestStudio.SourceControl.Git.TS.GitServerInfo",
           "__value": {
-            "ServerName": "https://github.com/ivaylotodorov/GT.git"
+            "ServerName": "https://github.com/ivaylotodorov/Koko"
           }
         },
         "ServerType": 2
