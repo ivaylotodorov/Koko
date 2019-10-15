@@ -17,7 +17,7 @@
           "__type": "ArtOfTest.WebAii.Design.ProjectModel.AutomationStep",
           "__value": {
             "Runtime ID": "a6690565-f1f5-40b5-a92f-f37ae595047e",
-            "Description": "Execute test 'WebTest(1)'",
+            "Description": "Execute test 'Renamed'",
             "CustomDescription": null,
             "Step": {
               "__type": "ArtOfTest.WebAii.Design.IntrinsicTranslators.Descriptors.ExecuteTestActionDescriptor",
@@ -26,8 +26,8 @@
                 "UseStepWaitOnElementsTimout": false,
                 "WaitOnElements": false,
                 "SearchByImageFirst": 0,
-                "TestName": "WebTest(1)",
-                "TestPath": "WebTest(1).tstest",
+                "TestName": "Renamed",
+                "TestPath": "Renamed.tstest",
                 "TestUniqueId": "2cd0ffaa-9af8-43cc-8a22-9ba5a398a7fc",
                 "Pause": 0,
                 "RunsAgainstVersion": "",
